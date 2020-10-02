@@ -1,0 +1,30 @@
+.container {
+    background-color: green;
+}
+
+.cover {
+    width: 30%;
+    margin: 0 35%;
+}
+
+.cover img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.control {
+    display: flex;
+    margin-left: 43%;
+}
+
+.prevTrack, .nextTrack {
+    margin-top: 20px;
+}
+
+.playTrack {
+    margin: 0 10px;
+}
+
+.time {
+    margin-top: 20px;
+}
